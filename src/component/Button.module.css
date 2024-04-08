@@ -1,0 +1,24 @@
+.btn {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: rgb(33, 33, 33);
+  background-color: #e5e4e0;
+  padding: 5px 25px;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0px 4px 3px rgb(150, 144, 144);
+
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+}
+
+/* .btn.dark {
+  background-color: #eae3db;
+}
+
+.btn:hover .dark {
+  background-color: #ffffff;
+} */

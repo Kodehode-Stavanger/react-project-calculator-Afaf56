@@ -1,0 +1,19 @@
+.input {
+  background-color: #eeeeee;
+  /* border: 2px solid blue; */
+  overflow-y: auto;
+  word-wrap: break-word;
+  border-radius: 8px;
+  width: 20.5rem;
+  height: 5rem;
+  font-weight: bold;
+  font-size: 1.3rem;
+  text-align: right;
+  padding-right: 10px;
+  box-shadow: 0px 1px 1px rgb(150, 144, 144);
+}
+
+/* .input.dark {
+  background-color: #181f32;
+  color: #fefffc;
+} */
